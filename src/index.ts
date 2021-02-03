@@ -1,1 +1,1 @@
-export { default } from "./WhatsupDocumentTitle";
+export { default } from './WhatsupDocumentTitle';
