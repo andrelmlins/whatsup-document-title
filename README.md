@@ -1,6 +1,6 @@
 # Whatsup Document Title
 
-[![npm version](https://badge.fury.io/js/whatsup-document-title.svg)](https://www.npmjs.com/package/whatsup-document-title) &bull; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andrelmlins/whatsup-document-title/blob/master/LICENSE) &bull; [![Build Status](https://travis-ci.com/andrelmlins/whatsup-document-title.svg?branch=master)](https://travis-ci.com/andrelmlins/whatsup-document-title)
+[![npm version](https://badge.fury.io/js/whatsup-document-title.svg)](https://www.npmjs.com/package/whatsup-document-title) &bull; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andrelmlins/whatsup-document-title/blob/master/LICENSE) &bull; [![Node.js CI](https://github.com/andrelmlins/whatsup-document-title/workflows/Node.js%20CI/badge.svg)](https://github.com/andrelmlins/whatsup-document-title/actions?query=workflow%3A%22Node.js+CI%22)
 
 Page title manager for whatsup.
 
