@@ -1,6 +1,6 @@
 {
   "name": "whatsup-document-title",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Page title manager for whatsup",
   "license": "MIT",
   "main": "dist/whatsup-document-title.umd.js",
