@@ -13,7 +13,6 @@ export class App extends Fractal<JSX.Element> {
             <input
               value={yield* this.title}
               onInput={(e) => {
-                // @ts-ignore
                 this.title.set(e.target.value);
               }}
             />

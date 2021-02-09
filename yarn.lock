@@ -961,10 +961,10 @@
     "@babel/plugin-syntax-jsx" "^7"
     "@babel/types" "^7"
 
-"@whatsup/jsx@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@whatsup/jsx/-/jsx-0.2.0.tgz#1671b92b23b4243d47f3fa9ec0a957c7d298bba0"
-  integrity sha512-SZx8+XAJsG6LVRvT6ODsCYHEWMQvhmnlJKIWU5v7RUkipkVqvFdsIZufAEtcRdG+QSJ/twTK/GNhTuD3lllyDA==
+"@whatsup/jsx@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@whatsup/jsx/-/jsx-0.2.1.tgz#3e6c98139bb444caa69a442f9cd762ea7d430d03"
+  integrity sha512-1rvY7pwQpML1/SICsm/EWwkPKmxRhDBkx3cKpHE0xM1SyEubn8ShjUFNVmZ0z85nGocwB+qrJEMhO6oKfHr+8w==
   dependencies:
     csstype "^3.0.6"
     whatsup "^1.1.0"
